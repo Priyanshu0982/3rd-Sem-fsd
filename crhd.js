@@ -6,3 +6,5 @@ async function readFileContent(filename){
     console.log(data);
 }
 readFileContent("notes.txt")
+
+
