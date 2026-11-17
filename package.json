@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "express",
   "version": "1.0.0",
   "description": "",
@@ -10,3 +11,24 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
+=======
+  "name": "web-dev-3rd-sem",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Priyanshu0982/3rd-Sem-fsd#readme",
+  "bugs": {
+    "url": "https://github.com/Priyanshu0982/3rd-Sem-fsd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshu0982/3rd-Sem-fsd.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "async_await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+>>>>>>> 1ba361b (crud)
